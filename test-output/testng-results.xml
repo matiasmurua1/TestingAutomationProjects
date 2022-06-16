@@ -2,16 +2,31 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-15T22:32:24 ART" name="Default suite" finished-at="2022-06-15T22:32:49 ART" duration-ms="25042">
+  <suite started-at="2022-06-16T19:05:33 ART" name="Suite" finished-at="2022-06-16T19:07:02 ART" duration-ms="88770">
     <groups>
     </groups>
-    <test started-at="2022-06-15T22:32:24 ART" name="Default test" finished-at="2022-06-15T22:32:49 ART" duration-ms="25042">
+    <test started-at="2022-06-16T19:05:33 ART" name="testngDespegar" finished-at="2022-06-16T19:07:02 ART" duration-ms="88770">
       <class name="com.selenium.test.DespegarTest">
-        <test-method signature="PruebaDespegar()[pri:0, instance:com.selenium.test.DespegarTest@41c62850]" started-at="2022-06-15T22:32:24 ART" name="PruebaDespegar" description="Validar busqueda de alojamiento en la pagina Despegar" finished-at="2022-06-15T22:32:49 ART" duration-ms="24912" status="PASS">
+        <test-method is-config="true" signature="abrir(org.testng.ITestContext)[pri:0, instance:com.selenium.test.DespegarTest@2c1b194a]" started-at="2022-06-16T19:05:33 ART" name="abrir" finished-at="2022-06-16T19:06:29 ART" duration-ms="55743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@665522c2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrir -->
+        <test-method signature="PruebaDespegar()[pri:0, instance:com.selenium.test.DespegarTest@2c1b194a]" started-at="2022-06-16T19:06:29 ART" name="PruebaDespegar" description="Validar busqueda de alojamiento en la pagina Despegar" finished-at="2022-06-16T19:07:02 ART" duration-ms="32791" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaDespegar -->
+        <test-method is-config="true" signature="endSetup()[pri:0, instance:com.selenium.test.DespegarTest@2c1b194a]" started-at="2022-06-16T19:07:02 ART" name="endSetup" finished-at="2022-06-16T19:07:02 ART" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSetup -->
       </class> <!-- com.selenium.test.DespegarTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- testngDespegar -->
+  </suite> <!-- Suite -->
 </testng-results>
