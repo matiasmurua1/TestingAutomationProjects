@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T22:32:24 ART" name="Default suite" finished-at="2022-06-15T22:32:49 ART" duration-ms="25042">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T22:32:24 ART" name="Default test" finished-at="2022-06-15T22:32:49 ART" duration-ms="25042">
+      <class name="com.selenium.test.DespegarTest">
+        <test-method signature="PruebaDespegar()[pri:0, instance:com.selenium.test.DespegarTest@41c62850]" started-at="2022-06-15T22:32:24 ART" name="PruebaDespegar" description="Validar busqueda de alojamiento en la pagina Despegar" finished-at="2022-06-15T22:32:49 ART" duration-ms="24912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaDespegar -->
+      </class> <!-- com.selenium.test.DespegarTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
